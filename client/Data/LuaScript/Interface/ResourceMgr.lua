@@ -1,0 +1,1 @@
+ResourceMgr = CS.ResourceManager.Ins
